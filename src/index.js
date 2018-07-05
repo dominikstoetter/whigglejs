@@ -4,6 +4,6 @@ const { msleep } = require('sleep');
 while(true) {
   whiggle.map(line => {
     console.log(line)
-    msleep(20)
+    msleep(19)
   })
 }
